@@ -1,0 +1,22 @@
+10
+A
+B
+C
+D
+E
+V
+W
+X
+Y
+Z
+10
+A W
+A V
+A Z
+B Z
+B Y
+C X
+D W
+E Z
+E Y
+E W
